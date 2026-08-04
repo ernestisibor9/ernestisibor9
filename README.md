@@ -1,5 +1,11 @@
 # Hi there 👋, I'm Ernest Isibor
 
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Laravel+Backend+Engineer;REST+API+Developer;PHP+Developer;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+
+</p>
+
 <h3 align="center">🚀 Laravel Backend Engineer | REST API Developer | Problem Solver</h3>
 
 <p align="center">
@@ -73,3 +79,128 @@ I build scalable web applications, secure REST APIs, and enterprise software usi
 ---
 
 ⭐ **"Building software that solves real-world problems."**
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🏫 School Management System | Complete multi-school ERP with results, attendance, finance, and administration | Laravel, PHP, MySQL |
+| 👥 NACPDEAN | Membership management platform with multi-role authentication | Laravel |
+| 📚 LMS API | RESTful API with authentication, Swagger documentation, and role management | Laravel, Sanctum |
+| 🏡 EcoHomes | Real estate management platform | Laravel |
+| 💳 PointOne Microfinance | Financial platform for managing customers and transactions | Laravel |
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ernestisibor9&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestisibor9&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ernestisibor9&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ernestisibor9&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ernestisibor9&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 💻 Coding Activity
+
+```text
+💼 Backend Development      ███████████████████░░ 90%
+
+⚙ Laravel                  ███████████████████░░ 95%
+
+🗄 MySQL                    ██████████████████░░░ 90%
+
+🔐 REST API                 ██████████████████░░░ 90%
+
+⚛ React                     ██████████████░░░░░░░ 70%
+
+🐳 Docker                    ███████████░░░░░░░░░ 55%
+```
+
+---
+
+# 📚 Currently Learning
+
+- System Design
+- Clean Architecture
+- Docker
+- CI/CD
+- AWS
+- AI Integration with Laravel
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Contribute more to Open Source
+- ✅ Build SaaS products
+- ✅ Master AWS
+- ✅ Build AI-powered Laravel Applications
+- ✅ Grow my GitHub community
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_YOUTUBE_URL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ernestisibor9&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
