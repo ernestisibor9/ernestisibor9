@@ -204,3 +204,155 @@ I build scalable web applications, secure REST APIs, and enterprise software usi
 ---
 
 ⭐ *"Code. Learn. Build. Repeat."*
+
+---
+
+# 🌟 Experience
+
+## 💼 Backend Software Engineer
+
+I specialize in designing and developing scalable backend systems with Laravel and PHP.
+
+### Areas of Expertise
+
+- 🔐 Authentication & Authorization
+- 📡 REST API Development
+- 💳 Payment Gateway Integration
+- 🗄 Database Design & Optimization
+- 📚 Learning Management Systems
+- 🏫 School Management Systems
+- 👥 Membership Management Platforms
+- ☁ Cloud Deployment
+- ⚙ Performance Optimization
+
+---
+
+# 🚀 What I Build
+
+✔ Enterprise Web Applications
+
+✔ REST APIs
+
+✔ Multi-role Authentication Systems
+
+✔ Admin Dashboards
+
+✔ Payment Platforms
+
+✔ School ERP Solutions
+
+✔ Property Management Systems
+
+✔ Financial Applications
+
+✔ AI-powered Laravel Applications
+
+---
+
+# 🛠 Development Workflow
+
+```text
+Idea
+  │
+  ▼
+Database Design
+  │
+  ▼
+Laravel Development
+  │
+  ▼
+REST API
+  │
+  ▼
+Frontend Integration
+  │
+  ▼
+Testing
+  │
+  ▼
+Deployment
+```
+
+---
+
+# 📂 Featured Laravel Technologies
+
+| Category | Technologies |
+|-----------|--------------|
+| Backend | Laravel, PHP |
+| Database | MySQL |
+| Authentication | Laravel Sanctum |
+| API Documentation | Swagger / OpenAPI |
+| Queue | Laravel Queue |
+| Mail | SMTP |
+| Version Control | Git & GitHub |
+| Deployment | Linux |
+
+---
+
+# 💼 Professional Principles
+
+✅ Clean Code
+
+✅ Scalable Architecture
+
+✅ Security First
+
+✅ Performance Optimization
+
+✅ Reusable Components
+
+✅ Continuous Learning
+
+---
+
+# 📖 Current Focus
+
+- 🚀 Advanced Laravel Architecture
+- ☁ AWS Cloud
+- 🐳 Docker
+- 🤖 AI Integration
+- ⚡ System Design
+- 🔒 API Security
+
+---
+
+# 📚 Latest Projects
+
+| Project | Status |
+|---------|--------|
+| 🏫 School ERP | 🟢 Active |
+| 👥 NACPDEAN | 🟢 Active |
+| 📚 LMS API | 🟢 Active |
+| 🏡 EcoHomes | 🔨 Building |
+| 💳 PointOne | 🔨 Building |
+
+---
+
+# 📈 Career Goals
+
+🎯 Become a world-class Laravel Architect
+
+🎯 Build SaaS products used across Africa
+
+🎯 Contribute to Laravel Open Source
+
+🎯 Master Cloud Infrastructure
+
+🎯 Mentor Upcoming Developers
+
+---
+
+# 💬 Favorite Quote
+
+> **"Great software is built one clean commit at a time."**
+
+---
+
+# 🙏 Thanks for Visiting
+
+If you enjoy my work, consider following my journey and checking out my repositories.
+
+⭐ Don't forget to star repositories you find useful!
+
+---
