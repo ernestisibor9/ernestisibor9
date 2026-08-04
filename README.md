@@ -1,3 +1,9 @@
+<p align="center">
+
+<img src="./ernest_isibor_photo.png" width="100%">
+
+</p>
+
 # Hi there 👋, I'm Ernest Isibor
 
 <p align="center">
