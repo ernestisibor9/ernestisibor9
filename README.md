@@ -12,7 +12,7 @@
 
 </p>
 
-<h3 align="center">🚀 Laravel Backend Engineer | REST API Developer | Problem Solver</h3>
+<h3 align="center">🚀 Laravel Backend Engineer | REST API Developer | Mobile App Developer | Problem Solver</h3>
 
 <p align="center">
 I build scalable web and mobile applications, secure REST APIs, and enterprise software using Laravel, PHP, React Native.
@@ -47,6 +47,7 @@ I build scalable web and mobile applications, secure REST APIs, and enterprise s
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React Native](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 
 ### Frontend
 
