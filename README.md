@@ -47,7 +47,7 @@ I build scalable web and mobile applications, secure REST APIs, and enterprise s
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React Native](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![React Native](https://img.shields.io/badge/React Native-009688?style=for-the-badge)
 
 ### Frontend
 
