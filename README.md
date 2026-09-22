@@ -15,7 +15,7 @@
 <h3 align="center">🚀 Laravel Backend Engineer | REST API Developer | Problem Solver</h3>
 
 <p align="center">
-I build scalable web applications, secure REST APIs, and enterprise software using Laravel and PHP.
+I build scalable web and mobile applications, secure REST APIs, and enterprise software using Laravel, PHP, React Native.
 </p>
 
 ---
